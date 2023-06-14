@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mulaiup/Hello-Docker/issues"
   },
-  "homepage": "https://github.com/Mulaiup/Hello-Docker#readme"
+  "homepage": "https://github.com/Mulaiup/Hello-Docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
